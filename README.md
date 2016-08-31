@@ -291,7 +291,8 @@ Some fine resources to write your own CLI App.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
 - [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
--[emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [wheretogo](https://github.com/mathdroid/wheretogo) - Find public Facebook Events in an area from text on the command-line.
 
 ## License
 
